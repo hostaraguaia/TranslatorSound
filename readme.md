@@ -1,0 +1,1 @@
+uv run python3 tradutor_tempo_real.py
